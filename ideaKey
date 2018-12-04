@@ -1,10 +1,10 @@
 快捷键的使用：
 
-1	执行(run)		shift+F10
+1	执行(run)		ctrl+shift+F10
 2	提示补全 (Class Name Completion)		 ctrl+alt+空格
-3	单行注释							ctrl + /
+3	单行注释	ctrl + /
 4	多行注释	ctrl + shift + /
-5	向下复制一行 (Duplicate Lines)				ctrl+d
+5	向下复制一行 (Duplicate Lines)  ctrl+d   复制多行 ctrl+alt+down向下箭头(设置)
 6	删除一行或选中行 (delete line)				ctrl+y
 7	向下移动行(move statement down)				ctrl+shift+down向下箭头
 8	向上移动行(move statement up)					ctrl+shift+up向上箭头
@@ -36,9 +36,9 @@
 30	生成构造器/get/set/toString 					alt+insert
 
 31	查看文档说明(quick documentation)				ctrl + q
-32	收起所有的方法(collapse all)					alt + shift + 减号-
-33	打开所有方法(expand all)					alt+shift+加号+
-34	打开代码所在硬盘文件夹(show in explorer)			ctrl+shift+x
+32	收起所有的方法(collapse all)					ctrl + shift + 减号-
+33	打开所有方法(expand all)					ctrl+shift+加号+
+34	打开代码所在硬盘文件夹(show in explorer)			ctrl+shift+x(设置)
 35	生成try-catch等(surround with)				ctrl+alt+t
 36	局部变量抽取为成员变量(introduce field)			ctrl+alt+f   
            Ctrl+Alt+Shift+T，弹出重构菜单
@@ -53,7 +53,7 @@
 44	打开最近修改的文件(Recently Files)		ctrl+E
 45	关闭当前打开的代码栏(close)					ctrl + F4
 
-46	关闭打开的所有代码栏(close all)				ctrl + shift + w
+46	关闭打开的所有代码栏(close all)				ctrl + shift + w (设置)
 47	快速搜索类中的错误(next highlighted error)			F2
 48	选择要粘贴的内容				Ctrl+Shift+V
 49	查找方法在哪里被调用(Call Hierarchy)				ctrl+alt+h
